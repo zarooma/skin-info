@@ -1,2 +1,2 @@
 # skin-info
-skin info
+* **skin name** *by []()*
