@@ -1,6 +1,6 @@
 # skin-info
 * **sponge skin** *by [Benjamin_Marcum](https://forum.codergautam.dev/u/Benjamin_Marcum)*
-* **smile skin** *by [](https://forum.codergautam.dev/u/xXM4TRXx)*
+* **smile skin** *by [weselito](https://forum.codergautam.dev/u/weselito)*
 * **Matrix skin** *by [xXM4TRXx](https://forum.codergautam.dev/u/xXM4TRXx)*
 * **Killer Bot skin** *by [interpixle](https://forum.codergautam.dev/u/interpixle)*
 * **Cactus skin** *by [Da_Bestestest](https://forum.codergautam.dev/u/Da_Bestestest)*
